@@ -11,8 +11,10 @@ This repository is dedicated to collecting, organizing, and sharing excellent AI
 ## Categories
 
 - AI search and research
-- AI image generation and editing
-- AI video generation
+- [AI image generation and editing](./ai-image-generation/)
+- [AI video generation](./ai-video-generation/)
+- [AI translation](./ai-translation/)
+- [AI format conversion](./ai-format-conversion/)
 - AI voice, music, and audio
 - AI writing and productivity
 - AI coding and development
